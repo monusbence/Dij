@@ -1,0 +1,8 @@
+C:\Users\tanulo\source\repos\Szamonkeres\Szamonkeres\bin\Debug\Program.cs
+C:\Users\tanulo\source\repos\Szamonkeres\Szamonkeres\bin\Debug\Szamonkeres.exe.config
+C:\Users\tanulo\source\repos\Szamonkeres\Szamonkeres\bin\Debug\Szamonkeres.exe
+C:\Users\tanulo\source\repos\Szamonkeres\Szamonkeres\bin\Debug\Szamonkeres.pdb
+C:\Users\tanulo\source\repos\Szamonkeres\Szamonkeres\obj\Debug\Szamonkeres.csproj.AssemblyReference.cache
+C:\Users\tanulo\source\repos\Szamonkeres\Szamonkeres\obj\Debug\Szamonkeres.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\source\repos\Szamonkeres\Szamonkeres\obj\Debug\Szamonkeres.exe
+C:\Users\tanulo\source\repos\Szamonkeres\Szamonkeres\obj\Debug\Szamonkeres.pdb
